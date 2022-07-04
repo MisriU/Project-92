@@ -1,0 +1,23 @@
+body{
+    background-image: url("FRCSVEJHW1MB1NM.gif");
+    background-size: cover;
+}
+h1{
+    font-family: fantasy;
+    color:blue;
+}
+div{
+    width: 550px;
+    border-style:ridge;
+    border: 4px;
+    border-color: black;
+}
+.logindiv1, .logindiv2{
+    border-style:ridge;
+    border: 4px;
+    border-color: black;
+    border-radius: 30px;
+}
+button{
+    width: 400px;
+}

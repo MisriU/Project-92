@@ -1,0 +1,28 @@
+body{
+    background-image: url("FRCSVEJHW1MB1NM.gif");
+    background-size: cover;
+}
+
+#player1_name, #player2_name{
+    font-size: 35px;
+    font-family: fantasy;
+}
+
+#player1_score, #player2_score{
+    font-size: 35px;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+label{
+    font-size: 35px;
+    color: blue;
+}
+
+#INPUT{
+    color: black;
+}
